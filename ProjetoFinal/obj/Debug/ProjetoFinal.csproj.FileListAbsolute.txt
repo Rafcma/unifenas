@@ -1,0 +1,52 @@
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmAbertura.resources
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionado.resources
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmPrincipal.resources
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.frmAbertura.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionado.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.frmPrincipal.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+D:\Usuario\Desktop\Faculdade\ProjetoFinal\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionadoPonderado.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\bin\Debug\ProjetoFinal.exe.config
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\bin\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\bin\Debug\ProjetoFinal.pdb
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.frmAbertura.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionado.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionadoPonderado.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.frmPrincipal.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.Properties.Resources.resources
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\ProjetoFinal - Copia\obj\Debug\ProjetoFinal.pdb
+D:\Usuario\Desktop\Faculdade\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionadoPonderado.resources
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmAbertura.resources
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionado.resources
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmGrafoNaoDirecionadoPonderado.resources
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.frmPrincipal.resources
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+D:\Usuario\Desktop\Faculdade\4° Período\Grafos\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
