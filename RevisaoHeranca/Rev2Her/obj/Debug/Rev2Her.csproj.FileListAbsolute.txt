@@ -1,0 +1,7 @@
+D:\Usuario\Desktop\Faculdade\Rev2Her\Rev2Her\bin\Debug\Rev2Her.exe.config
+D:\Usuario\Desktop\Faculdade\Rev2Her\Rev2Her\bin\Debug\Rev2Her.exe
+D:\Usuario\Desktop\Faculdade\Rev2Her\Rev2Her\bin\Debug\Rev2Her.pdb
+D:\Usuario\Desktop\Faculdade\Rev2Her\Rev2Her\obj\Debug\Rev2Her.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\Rev2Her\Rev2Her\obj\Debug\Rev2Her.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\Rev2Her\Rev2Her\obj\Debug\Rev2Her.exe
+D:\Usuario\Desktop\Faculdade\Rev2Her\Rev2Her\obj\Debug\Rev2Her.pdb

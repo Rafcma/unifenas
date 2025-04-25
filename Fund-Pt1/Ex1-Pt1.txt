@@ -1,0 +1,79 @@
+using System;
+
+namespace Ex1
+{
+    internal class Program
+    {
+        static string nome;
+        static double valor;
+        static string pix;
+        static int parcelas;
+
+        static void Main(string[] args)
+        {
+            int opcao;
+            do
+            {
+                Console.WriteLine("Menu de opções");
+                Console.WriteLine("Opção 1: Nome do Produto");
+                Console.WriteLine("Opção 2: Valor do Produto");
+                Console.WriteLine("Opção 3: Forma de Pagamento");
+                Console.WriteLine("Opção 4: Mostrar Dados da Compra");
+                Console.WriteLine("Opção 0: Sair");
+                Console.WriteLine("Escolha sua opção");
+
+                opcao = int.Parse(Console.ReadLine());
+                switch (opcao)
+                {
+                    case 1:
+                        Console.WriteLine("Digite o nome do produto");
+                        nome = Console.ReadLine();
+                        break;
+                    case 2:
+                        Console.WriteLine("Digite o valor do produto");
+                        valor = double.Parse(Console.ReadLine());
+                        break;
+                    case 3:
+                        Console.WriteLine("Selecione a opção de pagamento");
+                        Console.WriteLine("\nOpção 1. A vista (desconto de 10%)");
+                        Console.WriteLine("\nOpção 2. PIX");
+                        Console.WriteLine("\nOpção 3. Parcelado");
+                        Console.WriteLine("\nOpção 0. Sair");
+                        int menupagamento = int.Parse(Console.ReadLine());
+                        if (menupagamento == 1)
+                        {
+                            valor *= 0.9;
+                        }
+                        else if (menupagamento == 2)
+                        {
+                            Console.WriteLine("\nEscreva a chave PIX:");
+                            pix = Console.ReadLine();
+                        }
+                        else if (menupagamento == 3)
+                        {
+                            Console.WriteLine("Escolha o número de parcelas (até 10x sem juros)");
+                            parcelas = int.Parse(Console.ReadLine());
+                            double valorParcela = valor / parcelas;
+                            Console.WriteLine($"O valor de cada parcela é: {valorParcela}");
+                        }
+                        break;
+                    case 4:
+                        Console.WriteLine("Dados da Compra:");
+                        Console.WriteLine($"Nome do Produto: {nome}");
+                        Console.WriteLine($"Valor do Produto: {valor}");
+                        if (!string.IsNullOrEmpty(pix))
+                            Console.WriteLine($"Chave PIX: {pix}");
+                        if (parcelas > 0)
+                            Console.WriteLine($"Número de Parcelas: {parcelas}");
+                        break;
+                    case 0:
+                        Console.WriteLine("Saindo...");
+                        break;
+                    default:
+                        Console.WriteLine("Opção Inválida !");
+                        break;
+                }
+            } while (opcao != 0);
+        }
+    }
+}

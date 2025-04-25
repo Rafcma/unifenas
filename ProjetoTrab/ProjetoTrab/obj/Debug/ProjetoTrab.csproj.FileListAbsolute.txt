@@ -1,0 +1,7 @@
+D:\Usuario\Desktop\Faculdade\ProjetoTrab\ProjetoTrab\bin\Debug\ProjetoTrab.exe.config
+D:\Usuario\Desktop\Faculdade\ProjetoTrab\ProjetoTrab\bin\Debug\ProjetoTrab.exe
+D:\Usuario\Desktop\Faculdade\ProjetoTrab\ProjetoTrab\bin\Debug\ProjetoTrab.pdb
+D:\Usuario\Desktop\Faculdade\ProjetoTrab\ProjetoTrab\obj\Debug\ProjetoTrab.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\ProjetoTrab\ProjetoTrab\obj\Debug\ProjetoTrab.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\ProjetoTrab\ProjetoTrab\obj\Debug\ProjetoTrab.exe
+D:\Usuario\Desktop\Faculdade\ProjetoTrab\ProjetoTrab\obj\Debug\ProjetoTrab.pdb

@@ -1,0 +1,7 @@
+D:\Usuario\Desktop\Faculdade\PolimorfiaTrab\PolimorfiaTrab\bin\Debug\PolimorfiaTrab.exe.config
+D:\Usuario\Desktop\Faculdade\PolimorfiaTrab\PolimorfiaTrab\bin\Debug\PolimorfiaTrab.exe
+D:\Usuario\Desktop\Faculdade\PolimorfiaTrab\PolimorfiaTrab\bin\Debug\PolimorfiaTrab.pdb
+D:\Usuario\Desktop\Faculdade\PolimorfiaTrab\PolimorfiaTrab\obj\Debug\PolimorfiaTrab.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\PolimorfiaTrab\PolimorfiaTrab\obj\Debug\PolimorfiaTrab.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\PolimorfiaTrab\PolimorfiaTrab\obj\Debug\PolimorfiaTrab.exe
+D:\Usuario\Desktop\Faculdade\PolimorfiaTrab\PolimorfiaTrab\obj\Debug\PolimorfiaTrab.pdb

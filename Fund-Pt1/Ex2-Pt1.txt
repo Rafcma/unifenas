@@ -1,0 +1,44 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        const int numEstados = 3;
+        string[] estados = new string[numEstados];
+        int[] populacoes = new int[numEstados];
+        int[] vacinadas = new int[numEstados];
+
+        // Loop para permitir que o usuário insira os estados mais de uma vez
+        while (true)
+        {
+            // Preenchendo informações dos estados
+            for (int i = 0; i < numEstados; i++)
+            {
+                Console.Write($"Digite o nome do estado {i + 1}: ");
+                estados[i] = Console.ReadLine();
+                Console.Write($"Digite a população do estado {i + 1}: ");
+                populacoes[i] = int.Parse(Console.ReadLine());
+                Console.Write($"Digite o número de pessoas vacinadas no estado {i + 1}: ");
+                vacinadas[i] = int.Parse(Console.ReadLine());
+            }
+
+            // Exibindo o número de pessoas vacinadas e a porcentagem que ainda falta vacinar
+            for (int i = 0; i < numEstados; i++)
+            {
+                int faltamVaccinar = populacoes[i] - vacinadas[i];
+                double porcentagemFaltamVaccinar = (double)faltamVaccinar / populacoes[i] * 100;
+                Console.WriteLine($"\nEstado: {estados[i]}");
+                Console.WriteLine($"Número de pessoas vacinadas: {vacinadas[i]}");
+                Console.WriteLine($"Número de pessoas que ainda falta vacinar: {faltamVaccinar}");
+                Console.WriteLine($"Porcentagem de pessoas que ainda falta vacinar: {porcentagemFaltamVaccinar}%");
+            }
+
+            // Perguntando ao usuário se deseja inserir informações de novos estados
+            Console.Write("\nDeseja inserir informações de mais estados? (S/N): ");
+            string resposta = Console.ReadLine().ToUpper();
+            if (resposta != "S")
+                break;
+        }
+    }
+}

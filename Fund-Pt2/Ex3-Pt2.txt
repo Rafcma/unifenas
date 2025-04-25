@@ -1,0 +1,48 @@
+using System;
+
+class Program
+{
+    static void TrocarValores(ref int n1, ref int n2)
+    {
+        int temp = n1;
+        n1 = n2;
+        n2 = temp;
+    }
+
+    static int CalcularSoma(int[] vetor)
+    {
+        int soma = 0;
+        foreach (int num in vetor)
+        {
+            soma += num;
+        }
+        return soma;
+    }
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Digite o primeiro número:");
+        int num1 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Digite o segundo número:");
+        int num2 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine($"Antes da troca: número 1 = {num1}, número 2 = {num2}");
+        TrocarValores(ref num1, ref num2);
+        Console.WriteLine($"Depois da troca: número 1 = {num1}, número 2 = {num2}");
+
+        Console.WriteLine("Digite o tamanho do vetor:");
+        int tamanho = int.Parse(Console.ReadLine());
+
+        int[] vetor = new int[tamanho];
+
+        for (int i = 0; i < tamanho; i++)
+        {
+            Console.WriteLine($"Digite o valor para a posição {i}:");
+            vetor[i] = int.Parse(Console.ReadLine());
+        }
+
+        int soma = CalcularSoma(vetor);
+        Console.WriteLine($"A soma dos elementos do vetor é: {soma}");
+    }
+}

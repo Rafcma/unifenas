@@ -1,0 +1,7 @@
+D:\Usuario\Desktop\Faculdade\ExClass\ExClass\obj\Debug\ExClass.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\ExClass\ExClass\obj\Debug\ExClass.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\ExClass\ExClass\bin\Debug\ExClass.exe.config
+D:\Usuario\Desktop\Faculdade\ExClass\ExClass\bin\Debug\ExClass.exe
+D:\Usuario\Desktop\Faculdade\ExClass\ExClass\bin\Debug\ExClass.pdb
+D:\Usuario\Desktop\Faculdade\ExClass\ExClass\obj\Debug\ExClass.exe
+D:\Usuario\Desktop\Faculdade\ExClass\ExClass\obj\Debug\ExClass.pdb

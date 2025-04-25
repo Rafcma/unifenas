@@ -1,0 +1,59 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        const int numPessoas = 5;
+        string[] nomes = new string[numPessoas];
+        float[] pesos = new float[numPessoas];
+        float[] alturas = new float[numPessoas];
+        float[] imcs = new float[numPessoas];
+        float imcTotal = 0, imcMax = 0, imcMin = float.MaxValue;
+
+        // Preenchendo informações das pessoas
+        for (int i = 0; i < numPessoas; i++)
+        {
+            Console.Write($"Digite o nome da pessoa {i + 1}: ");
+            nomes[i] = Console.ReadLine();
+            Console.Write($"Digite o peso (em kg) da pessoa {i + 1}: ");
+            pesos[i] = float.Parse(Console.ReadLine());
+            Console.Write($"Digite a altura (em metros) da pessoa {i + 1}: ");
+            alturas[i] = float.Parse(Console.ReadLine());
+            imcs[i] = calcularIMC(pesos[i], alturas[i]);
+        }
+
+        // Calculando e exibindo o IMC de cada pessoa
+        Console.WriteLine("\nNome\t\tPeso\tAltura\tIMC");
+        for (int i = 0; i < numPessoas; i++)
+        {
+            Console.WriteLine($"{nomes[i]}\t{pesos[i]}\t{alturas[i]}\t{imcs[i]}");
+            imcTotal += imcs[i];
+
+            // Atualizando o IMC máximo e mínimo
+            if (imcs[i] > imcMax)
+            {
+                imcMax = imcs[i];
+            }
+            if (imcs[i] < imcMin)
+            {
+                imcMin = imcs[i];
+            }
+        }
+
+        // Calculando a média do IMC
+        float imcMedia = imcTotal / numPessoas;
+
+        // Exibindo o demonstrativo estatístico
+        Console.WriteLine("\nDemonstrativo Estatístico:");
+        Console.WriteLine($"IMC Médio: {imcMedia}");
+        Console.WriteLine($"IMC Máximo: {imcMax}");
+        Console.WriteLine($"IMC Mínimo: {imcMin}");
+    }
+
+    // Função para calcular o IMC de uma pessoa
+    static float calcularIMC(float peso, float altura)
+    {
+        return peso / (altura * altura);
+    }
+}

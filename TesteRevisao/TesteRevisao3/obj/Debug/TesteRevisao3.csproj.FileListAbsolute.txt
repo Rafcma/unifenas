@@ -1,0 +1,7 @@
+D:\Usuario\Desktop\Faculdade\TesteRevisao3\TesteRevisao3\bin\Debug\TesteRevisao3.exe.config
+D:\Usuario\Desktop\Faculdade\TesteRevisao3\TesteRevisao3\bin\Debug\TesteRevisao3.exe
+D:\Usuario\Desktop\Faculdade\TesteRevisao3\TesteRevisao3\bin\Debug\TesteRevisao3.pdb
+D:\Usuario\Desktop\Faculdade\TesteRevisao3\TesteRevisao3\obj\Debug\TesteRevisao3.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Faculdade\TesteRevisao3\TesteRevisao3\obj\Debug\TesteRevisao3.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Faculdade\TesteRevisao3\TesteRevisao3\obj\Debug\TesteRevisao3.exe
+D:\Usuario\Desktop\Faculdade\TesteRevisao3\TesteRevisao3\obj\Debug\TesteRevisao3.pdb
